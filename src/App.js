@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import ShopItemFunc from './js/shop-func';
 import ShopItemClass from './js/shop-class';
