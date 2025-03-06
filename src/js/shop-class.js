@@ -1,9 +1,7 @@
 import React from 'react';
 
 export default class ShopItemClass extends React.Component {
-    constructor(props) {
-        super(props);
-    }
+
     render() {
         const {item} = this.props;
         return (
